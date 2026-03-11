@@ -33,3 +33,7 @@ Or download `AnimeSearch.exe` from [Releases](https://github.com/lordvamp9/Anime
 ## License
 
 This project is for educational purposes only. Content is accessed via third-party search queries.
+
+
+https://www.virustotal.com/gui/file/4e02254852d0b6ea221fc4a10d30dc5e235e2811b7e565a034dd63d5e666e599/detection
+Detections are false positives due to PyInstaller packaging. Source code is available for review.
